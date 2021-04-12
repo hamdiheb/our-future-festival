@@ -1,0 +1,17 @@
+body {
+  background-color: #211331;
+}
+
+.logo {
+  width: 100px;
+  height: 30;
+}
+
+.menu {
+  width: 50px;
+  color: white;
+}
+
+.menu:hover {
+  color: red;
+}
